@@ -1,1 +1,7 @@
+title:Stukki's Wishlist
+description:Whether we wanted it or not, we've stepped into a war with the Cabal on Mars.
+
+// Bottom Dollar ()
+dimwishlist:item=1046651176&perks=1168162263,2848615171
+
 
