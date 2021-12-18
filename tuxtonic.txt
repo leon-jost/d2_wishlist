@@ -704,6 +704,7 @@ dimwishlist:item=235827225&perks=247725512,124408337
 // Glacioclasm
 //notes: TuxTonic's Wishlist (S15)
 dimwishlist:item=1030895163&perks=1820235745,1427256713
+dimwishlist:item=1030895163&perks=3161816588,1427256713
 
 
 // Servant Leader
