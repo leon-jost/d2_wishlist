@@ -763,10 +763,10 @@ dimwishlist:item=3257091166&perks=2077819806
 
 // The Other Half
 //notes: TuxTonic's Wishlist (S15)
-dimwishlist:item=3257091167&perks=2077819806
 dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,3708227201
 dimwishlist:item=3257091167&perks=3666208348,2077819806,3708227201
 dimwishlist:item=3257091167&perks=2077819806,3708227201
+dimwishlist:item=3257091167&perks=2077819806
 
 
 // Zephyr
