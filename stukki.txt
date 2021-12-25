@@ -17,6 +17,11 @@ dimwishlist:item=66875353&perks=1820235745,11612903
 dimwishlist:item=66875353&perks=1820235745,4082225868
 
 
+// The Deicide ()
+//notes: Stukki's Wishlist (S15)
+dimwishlist:item=217140611&perks=1631667848,2679249093
+
+
 // Eyasluna ()
 //notes: Stukki's Wishlist (S15)
 dimwishlist:item=235827225&perks=1168162263,124408337
