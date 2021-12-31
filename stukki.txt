@@ -11,12 +11,6 @@ dimwishlist:item=66875353&perks=2450788523,1890422124
 dimwishlist:item=66875353&perks=1168162263,2848615171
 
 
-// Avalanche ()
-//notes: Stukki's Wishlist (S15)
-dimwishlist:item=66875353&perks=1820235745,11612903
-dimwishlist:item=66875353&perks=1820235745,4082225868
-
-
 // The Deicide ()
 //notes: Stukki's Wishlist (S15)
 dimwishlist:item=217140611&perks=1631667848,2679249093
@@ -43,6 +37,11 @@ dimwishlist:item=235827225&perks=2846385770,588594999
 //notes: Stukki's Wishlist (S15)
 dimwishlist:item=235827225&perks=247725512,1015611457
 dimwishlist:item=235827225&perks=1168162263,1015611457
+
+
+// Eyasluna ()
+//notes: Stukki's Wishlist (S15)
+dimwishlist:item=235827225&perks=3108830275,124408337
 
 
 // Ignition Code ()
@@ -87,6 +86,11 @@ dimwishlist:item=548958835&perks=2450788523,2610012052
 //notes: Stukki's Wishlist (S15)
 dimwishlist:item=1030895163&perks=3161816588,1427256713
 dimwishlist:item=1030895163&perks=1820235745,1427256713
+
+
+// Glacioclasm ()
+//notes: Stukki's Wishlist (S15)
+dimwishlist:item=1030895163&perks=1645158859,2213355989
 
 
 // Chroma Rush ()
