@@ -1,5 +1,10 @@
 title:TuxTonic's Wishlist
-description:Hello There!
+description:May the Force be with you!
+
+
+// Telesto
+//notes: TuxTonic's Wishlist
+dimwishlist:item=2208405142&perks=2969185026,3970637031,862848869
 
 
 // Fatebringer (Timelost) 
@@ -28,11 +33,13 @@ dimwishlist:item=2272470786&perks=830282363,2779035018,2848615171
 
 // Accrued Redemption
 //notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=4095896073&perks=2801223209,201365942,3365897133
 dimwishlist:item=4095896073&perks=201365942,3365897133
 
 
 // Whispering Slab
 //notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=211938782&perks=2801223209,201365942,1546637391
 dimwishlist:item=211938782&perks=201365942,1546637391
 
 
@@ -159,6 +166,7 @@ dimwishlist:item=1622998472&perks=2621346526,3038247973
 
 // Escape Velocity
 //notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=1786797708&perks=663495154,3643424744,1546637391
 dimwishlist:item=1786797708&perks=3643424744,1546637391
 dimwishlist:item=1786797708&perks=3643424744,3708227201
 
@@ -263,9 +271,8 @@ dimwishlist:item=690668916&perks=3592538738,3824105627
 
 // Arsenic Bite-4b
 //notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=720351795&perks=2801223209,3425386926,3365897133
 dimwishlist:item=720351795&perks=3425386926,3365897133
-dimwishlist:item=720351795&perks=2848615171,3365897133
-dimwishlist:item=720351795&perks=2848615171,201365942
 
 
 // Gnawing Hunger
@@ -423,9 +430,10 @@ dimwishlist:item=2591111628&perks=3142289711,706527188,957782887
 
 // Tyranny of Heaven
 //notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=2721249463&perks=2801223209,201365942,3365897133
+dimwishlist:item=2721249463&perks=2801223209,201365942,3425386926
 dimwishlist:item=2721249463&perks=201365942,3365897133
 dimwishlist:item=2721249463&perks=201365942,3425386926
-dimwishlist:item=2721249463&perks=201365942,2848615171
 
 
 // Arc Logic
@@ -477,15 +485,17 @@ dimwishlist:item=3326850591&perks=1087426260,2284787283,1771339417
 
 // Imperial Needle
 //notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=3460122497&perks=2801223209,201365942,4104185692
 dimwishlist:item=3460122497&perks=201365942,4104185692
 
 
 // Wolftone Draw
 //notes: TuxTonic's Wishlist (S15)
-dimwishlist:item=3472875143&perks=3700496672,2848615171
-dimwishlist:item=3472875143&perks=3700496672,4104185692
-dimwishlist:item=3472875143&perks=201365942,2848615171
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,438098033
+dimwishlist:item=3472875143&perks=2801223209,201365942,4104185692
+dimwishlist:item=3472875143&perks=2801223209,201365942,2848615171
 dimwishlist:item=3472875143&perks=201365942,4104185692
+dimwishlist:item=3472875143&perks=201365942,2848615171
 
 
 // Coriolis Force
@@ -819,3 +829,15 @@ dimwishlist:item=548958835&perks=1820235745,4049631843
 //notes: TuxTonic's Wishlist (S15)
 dimwishlist:item=4156253727&perks=3436462433,4049631843
 dimwishlist:item=4156253727&perks=3436462433,1546637391
+
+
+// Scathelocke
+//notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=602618796&perks=1820235745,3425386926
+dimwishlist:item=602618796&perks=3436462433,3425386926
+
+
+// Night Watch
+//notes: TuxTonic's Wishlist (S15)
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973
+dimwishlist:item=3504336176&perks=247725512,3038247973
