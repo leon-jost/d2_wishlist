@@ -94,6 +94,11 @@ dimwishlist:item=548958835&perks=2450788523,438098033
 dimwishlist:item=548958835&perks=2450788523,2610012052
 
 
+// Forbearance ()
+//notes: Stukki's Wishlist (S16)
+dimwishlist:item=613334176&perks=855168139,2396489472
+
+
 // Nation of Beasts ()
 //notes: Stukki's Wishlist (S15)
 dimwishlist:item=654370424&perks=1168162263,1015611457
