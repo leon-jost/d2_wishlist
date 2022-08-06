@@ -7,6 +7,11 @@ description:May the Force be with you!
 dimwishlist:item=2208405142&perks=2969185026,3970637031,862848869
 
 
+// Dead Weight
+//notes: TuxTonic's Wishlist (S17)
+dimwishlist:item=3738678140&perks=1631667848,2679249093
+
+
 // Nezarec's Whisper
 //notes: TuxTonic's Wishlist (S17)
 dimwishlist:item=254636484&perks=3878366039,3007133316
